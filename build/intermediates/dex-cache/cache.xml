@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ygong/Documents/ListViewDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b8688397bcf7a9f44e2865e20413405929a7eb6d">
+        <dex dex="/Users/ygong/Documents/ListViewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_52b65919871b12e885c864631cce5883de9dc87d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ygong/Documents/ListViewDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/ygong/Documents/ListViewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_0d22b326f369a69812d29fb76b6b6b4f1d63fa4d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ygong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/ygong/Documents/ListViewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_55c7da1bc3e8c83dff6231f3289dc6d0fb043b07/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ygong/Documents/ListViewDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/ygong/Documents/ListViewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_24af86da1e87f55a0f325043d50817568c47c26c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ygong/Documents/ListViewDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b9d05d5c3fe9c3d320b8281550743ef056f8041b">
+        <dex dex="/Users/ygong/Documents/ListViewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6c85cbde3b9cf25bf2d75db2596f752545fbd4b9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ygong/Documents/ListViewDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/ygong/Documents/ListViewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_b6890ad1e991cb494421a8bb02c37524b4a0ec8c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ygong/Documents/ListViewDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/ygong/Documents/ListViewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_9f48aa6da68fa081f2953222f37f9e0cc5f58d32/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ygong/Documents/ListViewDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/ygong/Documents/ListViewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_5658d815d907c9d14055002671b55f1a31589a48/classes.dex" />
+    </item>
+
+</items>
